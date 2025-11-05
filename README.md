@@ -7,8 +7,8 @@
 ### Локальный запуск
 ```bash
 # Клонируйте репозиторий
-git clone https://github.com/your-username/guess-number-game.git
+git clone https://github.com/viskarius/project1.git
 cd guess-number-game
 
 # Запустите в Docker
-docker run -p 8080:8080 ghcr.io/your-username/guess-number-game:latest
+docker run -p 8080:8080 ghcr.io/viskarius/project1:latest
